@@ -21,7 +21,7 @@
 
 <p align="center">
 <a href="https://github.com/zaixiadingdangmao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaixiadingdangmao&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zaixiadingdangmao&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaixiadingdangmao&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zaixiadingdangmao&layout=compact&langs_count=8&theme=vue-dark"/>
 </a>  
 </p>
