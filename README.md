@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡&nbsp;I like to explore lastest technologies, develop software solutions and open eyes。\
-🌱&nbsp;I’m currently learning Typescript, Vue3。
+🌱I’m currently learning Typescript, Vue3。
 
 ### 🛠 &nbsp;Tech Stack
 
