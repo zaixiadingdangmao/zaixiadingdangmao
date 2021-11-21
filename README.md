@@ -17,10 +17,11 @@
 ![微信小程序](https://img.shields.io/badge/-微信小程序-333333?style=flat&logo=WeChat)&nbsp;
 ![ECharts](https://img.shields.io/badge/-ECharts-333333?style=flat&logo=ApacheECharts&logoColor=AA344D)&nbsp;
 \
-![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=GitHub&logoColor=ffffff)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=Git)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=GitHub&logoColor=ffffff)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
